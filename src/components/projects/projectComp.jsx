@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import hrm from '../../assets/hrm.png';
 import ecommerce from '../../assets/e-commercelanding.PNG'
 import bussiness from '../../assets/bussinesslanding.PNG';
-import lms from '../../assets/lms.webp';
+import lms from '../../assets/LMS.webp';
 import socialmedia from '../../assets/socialmedia.PNG'
 import portfolio from '../../assets/portfolio.PNG'
 
